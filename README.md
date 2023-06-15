@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Systems Engineer student
 ------------------------
 
-Student of Systems Engineering with pasion for data analysis and machine learning, always looking to learn new technologies.
+I´m a student of Systems Engineering with pasion for data analysis and machine learning. I really enjoy learning new technologies, lenguages and everything that can improve my personal development.
 
 * 🌍  I'm based in Lima, Perú
 * 🖥️  See my portfolio at [Data Analysis Portfolio](http://piero0090.github.io/Data_AnalysisPage/)
