@@ -48,6 +48,4 @@ I´m a graduate of Systems Engineering with pasion for data analysis and machine
 
 <div width="100%" align="center"><a href="https://github.com/piero0090/Tesis-SeminarioII" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=piero0090&repo=Tesis-SeminarioII&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/piero0090/RepoData01" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=piero0090&repo=RepoData01&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/piero0090/RepoData2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=piero0090&repo=RepoData2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
